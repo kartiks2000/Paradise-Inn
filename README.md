@@ -23,3 +23,6 @@ Hope you guys like it.....
 https://paradiseinn.netlify.app/
 
 
+This project was actually developed on 05/2020
+
+
